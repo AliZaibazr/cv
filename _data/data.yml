@@ -4,36 +4,35 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: alizaib.azr@gmail.com
+  github: Ali Zaib
+  linkedin: https://www.linkedin.com/in/ali-zaib-041977161/
+  phone: 0092-340-0792449 
+#   twitter: 
 
 languages:
+  - idiom: Urdu
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+#   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+#   - degree: MSc in Informatics
+#     time: 2014-2016
+#     university: Ionian University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BS(Hons) in Computer Science
+    time: 2014-2018
+    university: Bahauddin Zakariya University Multan
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP Laravel 
+      - Node.js
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - JavaScript
+      - Vue.js
   - category: DevOps
     skill:
       - Docker
@@ -50,8 +49,8 @@ profile: |
 # Experience
 experience:
   - role: Software Engineer
-    time: 2020-Present
-    company: Google
+    time: 2021-Present
+    company: The Entertainer
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -59,7 +58,7 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      PHP, Laravel, Lumen, Vue.js, Javascript, Jquery
   
   - role: Researcher
     time: 2016-2020
